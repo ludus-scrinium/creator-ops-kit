@@ -1,33 +1,53 @@
-# creator-ops-kit
-Safe fan content intake + review + recognition tiers.
+<p align="right">
+  <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+  </a>
+</p>
 
-# <Repo Name> — LUDUS SCRINIUM
+<p align="right">
+  <img src="./docs/heropfp.png" alt="creator ops kit" width="120">
+</p>
 
-## What this is
-A simple, searchable catalog for game assets so teams can find what they need, when they need it.
+# creator ops kit — safe fan content intake
 
-## Why it matters
-- Cuts time spent hunting files
-- Reduces duplicate work
-- Makes reuse and review easier
+## what this is
+a lightweight intake + review flow for fan content: submit → review → track permission → showcase.
 
-## What’s here (v0)
-- `/data` sample data
-- `/src` minimal code/prototype
-- `/docs` short guides & one-pagers
-- `/scripts` tiny helpers
-- `/demo` GIFs and short videos
+## why it matters
+- protects studio and creators
+- keeps permissions clear and searchable
+- turns great fan work into safe wins
 
-## Try it in 5 minutes
-1) Clone this repo
-2) Follow the steps in `/docs/SETUP.md`
-3) Open `/demo` and watch the 60-sec video
+## try it in 5 minutes
+1) open **/docs/SETUP.md**  
+2) use the sample submission form (html/md)
+3) approve/deny in the mini queue; see status change
 
-## Roadmap (next 4 weeks)
-- [ ] Milestone 1: Set up 
-- [ ] Milestone 2:
-- [ ] Milestone 3:
-- [ ] Milestone 4:
+## demo
+- 60–90s clip: **/demo/creator-ops-kit-v0.mp4** *(placeholder)*
 
-## License
-MIT (unless noted otherwise for sample assets)
+## fields (v0)
+- creator, title, link/file, license, permission status, notes
+
+## roadmap (next 4 weeks)
+- [ ] wk1: form + queue with sample records
+- [ ] wk2: basic license picker + audit trail
+- [ ] wk3: “ok to showcase” list export
+- [ ] wk4: mini gallery (static page)
+
+## status + links
+- setup: **/docs/SETUP.md**
+- policy: **/docs/PERMISSIONS.md** *(placeholder)*
+- license: **MIT**
+
+---
+
+<p align="center">
+  <img src="./docs/heropfp.png" alt="creator ops kit" width="96">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ludus-scrinium/ludus-scrinium-hub">
+    <img src="https://img.shields.io/badge/←%20back%20to%20hub-111?style=for-the-badge" alt="back to hub">
+  </a>
+</p>
