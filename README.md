@@ -8,15 +8,15 @@
   <img src="./docs/heropfp.png" alt="creator ops kit" width="120">
 </p>
 
-# creator ops kit — safe fan content intake
+# creator ops kit
 
 ## what this is
-a lightweight intake + review flow for fan content: submit → review → track permission → showcase.
+a lightweight intake + review system for fan content: submit → review → track permission → showcase.
 
 ## why it matters
 - protects studio and creators
 - keeps permissions clear and searchable
-- turns great fan work into safe wins
+- turns great fan work into studio safe ideas
 
 ## try it in 5 minutes
 1) open **/docs/SETUP.md**  
